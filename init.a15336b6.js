@@ -23,4 +23,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./actions":"fqCT","./board":"dTec","./dictionary":"TgOq","./keyboard":"BNf3","./level":"LwQx","./ai":"FCUV","./ui":"DrAD","./piece":"vyZ6"}],"Tvvp":[function(require,module,exports) {
 "use strict";var t=e(require("./gameState"));function e(t){return t&&t.__esModule?t:{default:t}}function n(){t.default.init()}window.onload=function(){n()};
 },{"./gameState":"EMrI"}]},{},["Tvvp"], null)
-//# sourceMappingURL=/init.a15336b6.js.map
+//# sourceMappingURL=init.a15336b6.js.map
